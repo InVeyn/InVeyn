@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @InVeyn
-- 👀 I’m interested in programming in video games
-- 🌱 I’m currently learning how to create a rocket league bot
-- 💞️ I’m looking to collaborate on building a rocket league bot that can do some more advanced mechanics based around freestyling
-- 📫 How to reach me instagram- @veyno5
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play hockey and practice coding in the free time
+# RLBotPythonExample
+Example of a Python bot using the RLBot framework
 
-<!---
-InVeyn/InVeyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Quick Start
+The easiest way to start a Python bot is demonstrated here!
+https://youtu.be/YJ69QZ-EX7k
+
+It shows you how to:
+- Install the RLBot GUI
+- Use it to create a new bot
+
+## Changing the bot
+
+- Bot behavior is controlled by `src/bot.py`
+- Bot appearance is controlled by `src/appearance.cfg`
+
+See https://github.com/RLBot/RLBotPythonExample/wiki for documentation and tutorials.
